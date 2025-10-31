@@ -25,9 +25,9 @@ Para executar o SkyView em seu ambiente de desenvolvimento, siga os passos abaix
 ## 📸 Screenshots
 
 ![Icone do App](./screenshots/icone.png)
-![Icone do App](./screenshots/splashscreen.png)
-![Icone do App](./screenshots/previsao.png)
-![Icone do App](./screenshots/mapa.png)
-![Icone do App](./screenshots/qr_code.png)
-![Icone do App](./screenshots/sobre.png)
+![Splashscreen do App](./screenshots/splashscreen.png)
+![Previsao do App](./screenshots/previsao.png)
+![Mapa do App](./screenshots/mapa.png)
+![QR-Code do App](./screenshots/qr_code.png)
+![Sobre do App](./screenshots/sobre.png)
 
