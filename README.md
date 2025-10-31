@@ -23,11 +23,10 @@ Para executar o SkyView em seu ambiente de desenvolvimento, siga os passos abaix
 4.  **Execute o aplicativo:** Inicie o aplicativo em um emulador Android ou em um dispositivo físico conectado.
 
 ## 📸 Screenshots
-
+Icone do App:
 ![Icone do App](./screenshots/icone.png)
 ![Splashscreen do App](./screenshots/splashscreen.png)
 ![Previsao do App](./screenshots/previsao.png)
 ![Mapa do App](./screenshots/mapa.png)
 ![QR-Code do App](./screenshots/qr_code.png)
 ![Sobre do App](./screenshots/sobre.png)
-
