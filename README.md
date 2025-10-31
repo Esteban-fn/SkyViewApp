@@ -25,34 +25,31 @@ Para executar o SkyView em seu ambiente de desenvolvimento, siga os passos abaix
 ## 📸 Screenshots
 
 <div align="center">
-  <table>
-    <tr>g
-      <td align="center">
-        <strong>Ícone do App</strong><br>
-        <img src="./screenshots/icone.png" alt="Icone do App" width="200">
-      </td>
-      <td align="center">
-        <strong>Splashscreen</strong><br>
-        <img src="./screenshots/splashscreen.png" alt="Splashscreen do App" width="200">
-      </td>
-      <td align="center">
-        <strong>Previsão</strong><br>
-        <img src="./screenshots/previsao.png" alt="Previsao do App" width="200">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Mapa</strong><br>
-        <img src="./screenshots/mapa.png" alt="Mapa do App" width="200">
-      </td>
-      <td align="center">
-        <strong>QR Code</strong><br>
-        <img src="./screenshots/qr_code.png" alt="QR-Code do App" width="200">
-      </td>
-      <td align="center">
-        <strong>Sobre</strong><br>
-        <img src="./screenshots/sobre.png" alt="Sobre do App" width="200">
-      </td>
-    </tr>
-  </table>
+  <strong>Ícone do App</strong><br>
+  <img src="./screenshots/icone.png" alt="Icone do App" width="200">
+</div>
+<br>
+<div align="center">
+  <strong>Splashscreen do App</strong><br>
+  <img src="./screenshots/splashscreen.png" alt="Splashscreen do App" width="200">
+</div>
+<br>
+<div align="center">
+  <strong>Previsão do App</strong><br>
+  <img src="./screenshots/previsao.png" alt="Previsao do App" width="200">
+</div>
+<br>
+<div align="center">
+  <strong>Mapa do App</strong><br>
+  <img src="./screenshots/mapa.png" alt="Mapa do App" width="200">
+</div>
+<br>
+<div align="center">
+  <strong>QR-Code do App</strong><br>
+  <img src="./screenshots/qr_code.png" alt="QR-Code do App" width="200">
+</div>
+<br>
+<div align="center">
+  <strong>Sobre do App</strong><br>
+  <img src="./screenshots/sobre.png" alt="Sobre do App" width="200">
 </div>
