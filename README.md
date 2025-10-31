@@ -24,20 +24,35 @@ Para executar o SkyView em seu ambiente de desenvolvimento, siga os passos abaix
 
 ## 📸 Screenshots
 
-Icone do App:
-![Icone do App](./screenshots/icone.png)
-
-Splashscreen do App:
-![Splashscreen do App](./screenshots/splashscreen.png)
-
-Previsao do App:
-![Previsao do App](./screenshots/previsao.png)
-
-Mapa do App:
-![Mapa do App](./screenshots/mapa.png)
-
-QR-Code do App:
-![QR-Code do App](./screenshots/qr_code.png)
-
-Sobre do App:
-![Sobre do App](./screenshots/sobre.png)
+<div align="center">
+  <table>
+    <tr>g
+      <td align="center">
+        <strong>Ícone do App</strong><br>
+        <img src="./screenshots/icone.png" alt="Icone do App" width="200">
+      </td>
+      <td align="center">
+        <strong>Splashscreen</strong><br>
+        <img src="./screenshots/splashscreen.png" alt="Splashscreen do App" width="200">
+      </td>
+      <td align="center">
+        <strong>Previsão</strong><br>
+        <img src="./screenshots/previsao.png" alt="Previsao do App" width="200">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Mapa</strong><br>
+        <img src="./screenshots/mapa.png" alt="Mapa do App" width="200">
+      </td>
+      <td align="center">
+        <strong>QR Code</strong><br>
+        <img src="./screenshots/qr_code.png" alt="QR-Code do App" width="200">
+      </td>
+      <td align="center">
+        <strong>Sobre</strong><br>
+        <img src="./screenshots/sobre.png" alt="Sobre do App" width="200">
+      </td>
+    </tr>
+  </table>
+</div>
