@@ -36,14 +36,8 @@ public class Principal extends AppCompatActivity {
                     Toast.makeText(this, "Cancelado", Toast.LENGTH_LONG).show();
                 } else {
                     String scannedData = result.getContents();
-                    // Ex: "city:São Paulo" ou "latlng:-23.55,-46.63"
-                    if (scannedData.startsWith("city:")) {
-                        String city = scannedData.substring(5);
-                        locationViewModel.setLocation(city);
-                        Toast.makeText(this, "Localização atualizada para: " + city, Toast.LENGTH_SHORT).show();
-                    } else {
-                        Toast.makeText(this, "QR Code inválido", Toast.LENGTH_LONG).show();
-                    }
+                    locationViewModel.setLocation(scannedData);
+                    Toast.makeText(this, "Localização atualizada para: " + scannedData, Toast.LENGTH_SHORT).show();
                 }
             });
 
